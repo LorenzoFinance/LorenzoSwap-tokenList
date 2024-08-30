@@ -1,0 +1,20 @@
+export enum TokenSymbol {
+    ETH= 'ETH',
+    WETH= 'WETH',
+    USDC= 'USDC',
+    USDT= 'USDT',
+    DAI= 'DAI',
+    stETH= 'stETH',
+    wstETH = 'wstETH',
+    WEETH = 'weETH',
+    SPELL= 'SPELL',
+    LIDO= 'LIDO',
+    DDAO= 'DDAO',
+    BUSD= 'BUSD',
+    WBNB= 'WBNB',
+    BNB= 'BNB',
+    DOGE= 'DOGE',
+    SHIB= 'SHIB',
+    BTCB= 'BTCB', //bsc
+    WBTC = 'WBTC',
+}
