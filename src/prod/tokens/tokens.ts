@@ -89,6 +89,18 @@ export const tokens: TokenInfo[] = [
         },
     },
     {
+        name: "Babylon Staking Cap 1 YAT Token",
+        symbol: TokenSymbol.YBBN1,
+        icon: baseURL + 'ybbn1.png',
+        chains: [ChainId.BSC],
+        contracts: {
+            [ChainId.BSC]: {
+                address: '0xd4a16cfd2900e513abdf66a998f4cdbc518a9053',
+                decimal: 18,
+            },
+        },
+    },
+    {
         name: "Dogecoin Token",
         symbol: TokenSymbol.DOGE,
         icon: 'https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/doge.png',

@@ -17,4 +17,5 @@ export enum TokenSymbol {
     SHIB= 'SHIB',
     BTCB= 'BTCB', //bsc
     WBTC = 'WBTC',
+    YBBN1 = 'yBBN1',
 }
