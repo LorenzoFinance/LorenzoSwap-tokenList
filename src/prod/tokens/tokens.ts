@@ -91,7 +91,7 @@ export const tokens: TokenInfo[] = [
     {
         name: "Babylon Staking Cap 1 YAT Token",
         symbol: TokenSymbol.YBBN1,
-        icon: baseURL + 'ybbn1.png',
+        icon: baseURL + 'ybbn1.svg',
         chains: [ChainId.BSC],
         contracts: {
             [ChainId.BSC]: {

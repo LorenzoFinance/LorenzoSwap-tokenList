@@ -86,7 +86,7 @@
   {
     "name": "Babylon Staking Cap 1 YAT Token",
     "symbol": "yBBN1",
-    "icon": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/ybbn1.png",
+    "icon": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/ybbn1.svg",
     "chains": [
       56
     ],
